@@ -1,0 +1,6 @@
+net\shopify\springboot\service\InventoryServiceImpl.class
+net\shopify\springboot\service\InventoryService.class
+net\shopify\springboot\model\Inventory.class
+net\shopify\springboot\repository\InventoryRepository.class
+net\shopify\springboot\controller\InventoryController.class
+net\shopify\springboot\ShopifyCRUDWebApplicationByKaushik.class
