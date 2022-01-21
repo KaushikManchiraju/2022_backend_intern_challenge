@@ -1,5 +1,7 @@
 Shopify Back-end Summer Intern 2022 Challenge 
 
+<b>Online URL to use the app</b> : https://shopifykaushik.herokuapp.com/
+
 Language and tools used :
 
 1. Java (Springboot framework)
@@ -19,5 +21,6 @@ The application has all the CRUD functionalities of :
 2. Update an existing inventory item
 3. Delete an existing inventory item
 
+Additional Features 
 
-![image](https://user-images.githubusercontent.com/15277540/150442864-900240aa-6ca4-43d8-9bef-58a7ba04fcb9.png)
+As mentioned in the challenge I've added the pagination feature wherein a user can list the inventory items in ascending or descending order by clicking on the item name, description and inventory count
